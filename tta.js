@@ -6,6 +6,8 @@
 // @author       omegaworks
 // @match        https://www.reddit.com/robin/
 // @grant        none
+// @downloadURL http://franksalad.github.io/robin-scripts/tta.js
+// @updateURL http://franksalad.github.io/robin-scripts/tta.js
 // ==/UserScript==
 
 (function() {
